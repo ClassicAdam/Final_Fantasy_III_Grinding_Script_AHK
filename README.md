@@ -22,6 +22,7 @@ https://www.youtube.com/watch?v=kxCoJRme_c8
 The script has a variable to change how many times it will loop.  By default, it's set to loop 100 times.
 
 I also added a save file called SAVE.BIN.  This save file has slot 3 with a level 25 character at the very beginning of the game.  The local save file is in the following path:
+
 C:\Users\%USERNAME%\AppData\Local\FF3_Win32\76561197970521539
 
 Be sure to backup your existing SAVE.BIN file, if you have existing save files in your game.
